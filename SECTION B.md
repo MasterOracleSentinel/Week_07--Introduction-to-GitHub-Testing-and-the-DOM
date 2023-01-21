@@ -50,4 +50,37 @@ Here’s an example of a unit test that checks if a function exists:
 
 
 (3)
+When Should You Use Fetch
+
+Learning Outcomes Addressed
+ 7. Explain how HTML pages interpret JavaScript code
+
+ 8. Explain how the browser interprets HTML and JavaScript code
+
+Using The Fetch Command To Retrieve Data
+When you want to get data from a remote server to use in your programs, instead of referencing the data from a file directly within the program, you can use the fetch command to retrieve it from an external source. 
+
+Using the fetch command retrieves the data from a remote server and returns it in the JSON format. After that, it's up to you to convert the JSON data into a JavaScript object that you can work with. 
+
+It's important to understand why and when you would use this piece of functionality. 
+
+Why Use Fetch?
+Fetch is useful when accessing and utilizing external data. This is desirable because keeping your program light and pulling in data only as needed allows your program to run efficiently. This becomes very useful when you are working with large amounts of data.  
+
+For example, If you’re a Twitter user, you may have noticed that when you go to someone’s profile the program sometimes needs to buffer to display tweets. This occurs when the Twitter program is fetching that data. If all of the tweets in the ecosystem were immediately available to every user, the system would not be able to run. So, instead of storing all the tweets, the data is fetched from an outside web server where it is stored.
+
+Instructions:
+
+Reflect on programs that you regularly use and respond to the following questions:
+
+Describe a program where it would be better to fetch outside data instead of relying on local data storage.
+Can you think of a program where fetching external data is not desirable?
+Submission Instructions:
+
+Word count: 150-300
+Review your peers’ posts. Do you see some creative examples? Reply to them to continue the conversation.
+
+
+(4)
+
 
