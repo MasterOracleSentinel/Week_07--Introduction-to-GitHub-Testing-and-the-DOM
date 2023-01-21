@@ -82,5 +82,59 @@ Review your peers’ posts. Do you see some creative examples? Reply to them to 
 
 
 (4)
+Explaining the DOM
+
+Learning Outcomes Addressed
+ 7.Explain how HTML pages interpret JavaScript code
+
+ 8.Explain how the browser interprets HTML and JavaScript code
+
+Working With The DOM
+At this point in the course, you’ve gained experience working with HTML, CSS, and JavaScript through the DOM. You’ve:
+
+Dynamically injected posts directly into HTML elements
+Hooked HTML elements via their IDs and changed their internal contents
+Fetched and rendered JSON data onto a web page
+Instructions:
+
+Answer the questions below: 
+
+Using a real work example, describe the relationship between the DOM, JavaScript, HTML, and CSS. Describe it the best you can using only your own words without jargon.
+What is the advantage of using the DOM to interface with HTML, CSS, and JavaScript? What functionality becomes available? 
+If you have questions about the DOM, please post them on the Q&A discussion board so the Learning Facilitators can help clarify them for you.
+
+Submission Instructions:
+
+Word count: 150-300
+Did one of your peers share a creative explanation of the DOM? Reply to their post to continue the conversation.
+
+(5)
+
+Q & A Discussion With Learning Facilitators
+
+Do you have specific questions about a coding assignment? Did you encounter a bug that you are struggling to troubleshoot? This forum is the space to ask questions related to this module’s assignments and video content. It will be moderated by your Learning Facilitator.
+
+Learning how to accurately describe problems that you encounter is a crucial skill for any software developer. If you can provide accurate information about the issue you’re facing, you will be more likely to receive meaningful answers to your questions.
+
+Submission Instructions:
+
+Follow these best practices when posting about a challenge to this discussion forum: 
+
+Describe what you expect to happen.
+Describe what is happening instead.
+Provide detailed steps on how to reproduce what you have already done. 
+Attach screenshots or code snippets of all relevant files.
+As an example:
+
+I am trying to display a picture of myself for my GitHub portfolio website. My picture should appear below my name when I open the website. 
+Instead of seeing my picture, I see a broken image. 
+To reproduce my work, I created an index.html with an <h1> tag containing my name and an <img> tag with my photo’s file name. I uploaded these files to GitHub.
+
+ ![image](https://user-images.githubusercontent.com/105542222/213886372-78a952b6-b0fe-4543-9f3b-a610a01314f1.png)
+
+ Notice that the participant included the entire folder contents in the screenshot in this example. This will help Learning Facilitators or other participants diagnose the error.
+
+You are encouraged to reply to your fellow learners to continue the conversation.
+
 
 
